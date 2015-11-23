@@ -1,0 +1,4 @@
+{
+    "starting_from_location_id"  :   "56517d54f7bfee01e7718d57",
+    "location_ids" : ["56517dc8f7bfee01e7718d59", "56517de8f7bfee01e7718d5a", "56517e22f7bfee01e7718d5b", "565187f1f7bfee033a1601ff"]
+}
